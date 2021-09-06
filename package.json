@@ -1,0 +1,15 @@
+{
+  "name": "hamming",
+  "version": "1.0.0",
+  "description": "Exercism Hamming exercise",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exercism",
+    "hamming"
+  ],
+  "author": "N Rigg",
+  "license": "ISC"
+}
